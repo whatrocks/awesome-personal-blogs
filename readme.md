@@ -19,6 +19,7 @@
 - [Brandon Dail](https://aweary.dev/)
 - [Bryan Cantrill](http://dtrace.org/blogs/bmc/)
 - [Chase McCoy](https://chasem.co/thoughts/)
+- [Charlie Harrington](https://www.charlieharrington.com/)
 - [Chiamaka Ikeanyi](https://chiamakaikeanyi.dev/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Christian Fei](https://christianfei.com/)
